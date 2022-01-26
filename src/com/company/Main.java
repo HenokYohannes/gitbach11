@@ -1,4 +1,4 @@
-package com.company;
+package company;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,5 +6,6 @@ public class Main {
         System.out.println(" I am batch11");
 
         System.out.println(" I am batch12");
+
     }
 }
